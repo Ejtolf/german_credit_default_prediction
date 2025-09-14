@@ -1,1 +1,9 @@
 # Add your Python packages here
+streamlit
+numpy
+pandas 
+seaborn
+matplotlib
+scipy 
+scikit-learn
+joblib
